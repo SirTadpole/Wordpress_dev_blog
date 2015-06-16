@@ -45,3 +45,9 @@ i) Images in services section updated and pagination color enabled.
 
 Version 1.5.8
 i) Line height and section h2 font size in mobile mode rectified.
+
+Version 1.5.9
+i) Resolved slide title line height issues.
+
+Version 1.6.0
+i) Reduced size of the theme and rectified pricing in theme options.

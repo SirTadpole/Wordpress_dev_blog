@@ -41,8 +41,8 @@
 .footer-col-3 { width:auto; float:none;}
 .copyright-txt, .design-by { text-align:center; float:none;}
 .top-bar{ top:3px !important;}
-.top-bar h1{font-weight:900;  font-size:27px; padding:0 0 10px 0; text-align:center; text-transform:uppercase;}
-.top-bar p{ color:#ffffff; font-weight:normal; font-size:16px; margin:0 0 7px 0; line-height:24px; text-align:center;}
+.top-bar h1{font-weight:900;  font-size:15px; padding:0 0 3px 0; text-align:center; text-transform:uppercase; line-height:19px}
+.top-bar p{ color:#ffffff; font-weight:normal; font-size:16px; margin:0 0 7px 0; line-height:24px; text-align:center; display:none;}
 .top-bar a, .contact-banner a{ font:700 15px 'Roboto', sans-serif; padding:10px 40px; margin-top:0; text-transform:uppercase; display:inline-block; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; -o-border-radius:4px; -ms-border-radius:4px; color:#ffffff;}
 .nivo-directionNav a{ z-index:99 !important; top:40% !important;}
 
@@ -154,7 +154,7 @@ a.arrow-down, #slider .top-bar p{ display:none;}
 .footer-col-3 { width:auto; float:none;}
 .copyright-txt, .design-by { text-align:center; float:none;}
 .top-bar{ top:35px !important;}
-.top-bar h1{font-weight:900;  font-size:27px; padding:0 0 10px 0; text-align:center; text-transform:uppercase;}
+.top-bar h1{font-weight:900;  font-size:20px; padding:0 0 10px 0; text-align:center; text-transform:uppercase; line-height:21px;}
 .top-bar p{ color:#ffffff; font-weight:normal; font-size:16px; margin:0 0 7px 0; line-height:24px; text-align:center;}
 .top-bar a, .contact-banner a{ font:700 15px 'Roboto', sans-serif; padding:10px 40px; margin-top:0; text-transform:uppercase; display:inline-block; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; -o-border-radius:4px; -ms-border-radius:4px; color:#ffffff;}
 .nivo-directionNav a{ z-index:99 !important; top:40% !important;}
@@ -342,6 +342,8 @@ a.arrow-down{ bottom:14px;}
 .content-area{ width:auto; margin:0 20px; padding:50px 0;}
 .site-main{ width:60%; margin:0; padding:0; float:left;}
 #sidebar{ width:35%; margin:0; padding:0; float:right;}
+.top-bar h1{ font-size:26px; line-height:33px;}
+.top-bar{ top:43px;}
 
 }
 
@@ -378,5 +380,6 @@ a.contact-button { width:auto;}
 .footer-col-1 { margin:0 45px 50px 0;}
 .footer-col-1 h2 { font-size:20px;}
 .footer-col-3 h2 { font-size:28px;}
+.top-bar{ top:50px;}
 
 }

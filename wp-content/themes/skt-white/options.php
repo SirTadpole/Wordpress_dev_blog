@@ -1068,7 +1068,7 @@ function optionsframework_options() {
 		'type' => 'info');	
 
 	 $options[] = array(
-		'desc' => '<a href="'.esc_url(SKT_SITE_URL).'" target="_blank"><img src="'.get_template_directory_uri().'/images/sktskill.jpg"></a><p><em><a target="_blank" href="'.esc_url(SKT_PRO_THEME_URL).'">'.__('Buy PRO version for only $30 with more features.','skt-white').'</a></em></p>',
+		'desc' => '<a href="'.esc_url(SKT_SITE_URL).'" target="_blank"><img src="'.get_template_directory_uri().'/images/sktskill.jpg"></a><p><em><a target="_blank" href="'.esc_url(SKT_PRO_THEME_URL).'">'.__('Buy PRO version for only $39 with more features.','skt-white').'</a></em></p>',
 		'type' => 'info');	
 	
 	return $options;

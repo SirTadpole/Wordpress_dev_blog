@@ -5,7 +5,7 @@ Author: SKT Themes
 Author URI: http://www.sktthemes.net
 Description: SKT White is a responsive premium WordPress theme which is suitable for any type of website you want to create. So corporate, business, photography, wedding, industrial, restaurant or any sort of industry. SKT White has the ability to change the link colors. So make it suit your style you want. Comprises of easy to use sections on the homepage which make it super easy for your to manage the content on your homepage. Theme options are also one of the most easy to use and you can edit slider, and the homepage content from options. 100% responsive to the last pixel this theme is retina ready and hd ready and has ability to easily edit any part you want. Comes with default parallax slider.Default page templates, search and other standard pages readily available with this theme. Compatible with popular plugins like WooCommerce making it ecommerce/shop ready and Contact form 7.It is translation ready and can be translated for any language. Has custom header and custom background. Check out the demo at: http://sktthemesdemo.net/skt-white
 
-Version: 1.5.8
+Version: 1.6.0
 License: GNU General Public License version 3
 License URI: license.txt
 Text Domain: skt-white
@@ -46,7 +46,7 @@ a.contact-button{ visibility:hidden; width:15%; margin:0 auto;}
 
 #slider{ width:100%; margin:0; padding:0; position:relative;}
 .top-bar{ margin:0; padding:16px 0 20px; position:absolute; width:100%; top:120px; text-align:center; font-family:'Roboto'san-serif; color:#ffffff; z-index:99;}
-.top-bar h1{font-weight:900;  font-size:58px; padding:0 0 20px 0; text-align:center; text-transform:uppercase;}
+.top-bar h1{font-weight:900;  font-size:58px; padding:0 0 20px 0; text-align:center; text-transform:uppercase; line-height:66px;}
 .top-bar p{ color:#ffffff; font-weight:normal; font-size:16px; margin:0 0 30px 0; line-height:24px; text-align:center;}
 .top-bar a, .contact-banner a{ font:700 26px 'Roboto', sans-serif; padding:10px 40px; margin-top:21px; text-transform:uppercase; display:inline-block; border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; -o-border-radius:4px; -ms-border-radius:4px; color:#ffffff;}
 .top-bar h1, .top-bar p	{ text-shadow:2px 2px 5px #000000;}
